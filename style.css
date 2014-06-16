@@ -1,0 +1,25 @@
+body {
+    font-family: "Gilda Display", serif;
+    max-width: 650px;
+}
+
+h1, h2, h3 {
+    font-family: "Vollkorn", serif;
+}
+
+@media screen and (max-width: 680px) {
+    body {
+        margin-left: 6px;
+    }
+}
+
+@media screen and (min-width: 680px) {
+    body {
+        margin: auto;
+    }
+}
+
+h3 {
+    border-top: 1px solid gray;
+    padding-top: 3px;
+}
