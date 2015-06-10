@@ -1,3 +1,5 @@
+---
+---
 <html>
 <head>
   <title>CompSocs UK</title>
@@ -23,7 +25,7 @@
   webchat</a> to connect to the channel.</p>
 
   <h3>Bot</h3>
-  
+
   <p>There is (at least one) utility bot in the channel. One of the
     functions it provides is intended to make it easy to check which
     university and society someone is from (as this question comes up
@@ -39,24 +41,18 @@
 
   <p>These societies have been seen in the channel:</p>
   <ul>
-    <li><a href="http://comp-soc.com">Edinburgh CompSoc</a></li>
-    <li><a href="http://www.gutechsoc.com/">Glasgow University Tech Society</a></li>
-    <li><a href="http://www.kcltech.com">King's College London Tech Society</a></li>
-    <li><a href="http://napierdevsoc.uk/">Napier University Developers Society</a></li>
-    <li><a href="http://www.uoncompsoc.org.uk/">Compsoc Nottingham</a></li>
-    <li><a href="http://hacksocnotts.co.uk/">Hacksoc Nottingham</a></li>
-    <li><a href="http://ox.compsoc.net">Oxford CompSoc</a></li>
-    <li><a href="http://geeksoc.org">Strathclyde GeekSoc</a></li>
-    <li><a href="https://sucs.org">Swansea University Computer Society</a></li>
-    <li><a href="http://www.uwcs.co.uk">University of Warwick Computing Society</a></li>
-    <li><a href="http://hacksoc.org">York HackSoc</a></li>
+    {% assign socs = site.data.societies | sort: 'university' %}
+    {% for society in socs %}
+    <li><a href="{{ society.url }}">{{ society.title }}</a></li>
+    {% endfor %}
+
   </ul>
 
   <h3>Future plans</h3>
   <p>Hopefully, various group activities will be organised among the
   people in <tt>#compsoc-uk</tt>. Perhaps when this becomes a proper
   website, those events will be listed here.</p>
-  
+
   <h3>This Website</h3>
 
   <p>If you'd like to improve this website, it is hosted on GitHub pages, in the repository
@@ -67,4 +63,3 @@
 
 </body>
 </html>
-
