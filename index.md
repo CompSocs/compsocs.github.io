@@ -37,6 +37,16 @@
   <p>Type <tt>!whois.set &lt;description&gt;</tt> to set the
   description for yourself.</p>
 
+  <h3>Grand Tech Meetup</h3>
+
+  <p>There are currently plans underway to organise a meet up for the channel's community. This would involve a weekend of talks, roundtable discussions, maybe mini hacks and social events.</p>
+
+  <p>Dates are not decided upon yet. Location is potentially going to be York, although depending on the amount of interest for the event that could also be subject to change.</p>
+
+  <p><a href="https://goo.gl/k56ADB">Register your interest here</a></p>
+  <p><a href="https://goo.gl/3tVqnF">Propose a talk here</a></p>
+  <p><a href="https://goo.gl/fHTR09">Request a session here</a> <a href="https://goo.gl/RDGtBY">(results)</a></p>
+
   <h3>Known Societies</h3>
 
   <p>These societies have been seen in the channel:</p>
