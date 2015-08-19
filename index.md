@@ -65,6 +65,6 @@ This Website
 If you'd like to improve this website, it is hosted on GitHub pages,
 in the repository
 [Compsocs/compsocs.github.io](http://github.com/CompSocs/compsocs.github.io). Send
-a pull request, and ping `qlkzy` (among others) in the channel if it
-seems to be being ignored. Reputable individuals will probably be
+a pull request, and ping `barrucadu` (among others) in the channel if
+it seems to be being ignored. Reputable individuals will probably be
 given commit access.
