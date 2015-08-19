@@ -42,6 +42,7 @@ computing-related tech, including but not limited to:
 - Computer Hardware and Electronics
 - Software Engineering and Programming
 - Cultural, Social, and Legal Ramifications of Technology
+- Employment, Internships, and Placements
 - Running a University Technical Society
 
 Organisation
@@ -57,3 +58,5 @@ in this as possible!
   [NapierDevSoc](http://napierdevsoc.uk/))
 - **Will Mathewson**, neanias on IRC (University of Edinburgh,
   [CompSoc](http://comp-soc.com/))
+- **Imran Hussain**, imranh on IRC (University of Swansea,
+  [SUCS](https://sucs.org/))
