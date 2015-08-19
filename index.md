@@ -30,17 +30,10 @@ Type `!whois.set <description>` to set the description for yourself.
 Grand Tech Meetup
 -----------------
 
-There are currently plans underway to organise a meet up for the
-channel's community. This would involve a weekend of talks, roundtable
-discussions, maybe mini hacks and social events.
+We're planning a weekend of talks, round table discussions, mini
+hacks, and social events in York in late October.
 
-Dates are not decided upon yet. Location is potentially going to be
-York, although depending on the amount of interest for the event that
-could also be subject to change.
-
-- [Register your interest here](https://goo.gl/k56ADB)
-- [Propose a talk here](https://goo.gl/3tVqnF)
-- [Request a session here](https://goo.gl/fHTR09) [(results)](https://goo.gl/RDGtBY)
+**See [the GTMU 15 site](gtmu) for details.**
 
 Known Societies
 ---------------
