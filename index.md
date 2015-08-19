@@ -7,10 +7,6 @@ A number of computer science societies at UK universities who use IRC
 have resurrected the shared channel `#compsoc-uk` on freenode as a
 place for friendly discussion.
 
-The channel is `#compsoc-uk` on `irc.freenode.net`. This channel has
-slightly uncertain status, so the channel <tt>#compsoc<b>s</b>-uk</tt>
-(plural) on freenode has been registered as a backup.
-
 Webchat
 -------
 
