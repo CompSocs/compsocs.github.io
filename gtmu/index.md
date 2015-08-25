@@ -25,6 +25,10 @@ we have an idea of numbers:
 
 - **[Registration form](http://bit.ly/gtmu15-signup)** 
 
+There is an annoucement list to which we will post updates:
+
+- **[Announcement list](https://goo.gl/bsuRTV)
+
 Call for Submissions
 --------------------
 
