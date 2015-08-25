@@ -10,7 +10,7 @@ hacks and social events.
 - **What?** Tech meetup with talks, round table discussions, and a
   hackathon!
 - **Where?** York
-- **When?** 24th and 25th of October (provisional)
+- **When?** 31st of October and 1st of November
 
 The goal of the meetup is to bring together students, present and
 past, of different universities to share ideas, make new friends, and
