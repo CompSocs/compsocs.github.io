@@ -27,16 +27,10 @@ we have an idea of numbers:
 
 There is an annoucement list to which we will post updates:
 
-- **[Announcement list](https://goo.gl/bsuRTV)
+- **[Announcement list](https://goo.gl/bsuRTV)**
 
 Call for Submissions
 --------------------
-
-The formal call for submissions has not gone out yet, but if you have
-an idea for something you would like to do or see, please tell us!
-
-- **[Submission form](https://goo.gl/3tVqnF)**
-- **[Suggestion form](https://goo.gl/fHTR09)** [(results)](https://goo.gl/RDGtBY)
 
 We welcome and encourage contributions from all areas of
 computing-related tech, including but not limited to:
@@ -48,6 +42,28 @@ computing-related tech, including but not limited to:
 - Cultural, Social, and Legal Ramifications of Technology
 - Employment, Internships, and Placements
 - Running a University Technical Society
+
+Submissions can be talks (5, 20, or 60 minute preferred), tutorials, 
+workshops, or round table discussions. If there are too many 
+submissions of a particular type to fit into the programme, we may 
+contact presenters about the possibility of a different one (such as a 
+lightning talk): 
+
+- **Submission form:** http://bit.ly/gtmu15-submission 
+
+If there is something you would like to see at the meetup, but which 
+you couldn't organise yourself, then you can suggest it and we may be 
+able to find someone knowledgeable on that topic: 
+
+- **Suggestion form:** http://bit.ly/gtmu15-suggestion 
+
+Important Dates 
+--------------- 
+
+- Submission title and abstract deadline: 18th of October 
+- Notification: 23rd of October 
+- Final programme availability: 25th of October 
+- Meetup: 31st of October & 1st of November
 
 Organisation
 ------------
