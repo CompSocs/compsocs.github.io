@@ -60,8 +60,8 @@ able to find someone knowledgeable on that topic:
 Important Dates 
 --------------- 
 
-- Submission title and abstract deadline: 18th of October 
-- Notification: 23rd of October 
+- Submission title and abstract deadline: 23rd of October 
+- Notification: 25th of October 
 - Final programme availability: 25th of October 
 - Meetup: 31st of October & 1st of November
 
