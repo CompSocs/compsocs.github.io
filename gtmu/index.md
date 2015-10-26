@@ -3,74 +3,126 @@ layout: wrapper
 title: Grand Tech Meetup 2015
 ---
 
-We're organising a meet up for the greater UK CS student community!
-This would involve a weekend of talks, roundtable discussions, mini
-hacks and social events.
-
 - **What?** Tech meetup with talks, round table discussions, and a
   hackathon!
 - **Where?** York
 - **When?** 31st of October and 1st of November
 
-The goal of the meetup is to bring together students, present and
-past, of different universities to share ideas, make new friends, and
-promote inter-university fraternisation.
+## Saturday
 
-The Saturday will consist of talks, round table discussions, and
-workshops, with a social event in the evening. The Sunday will consist
-of a hackathon (to be confirmed).
+<table>
+  <tr class="head">
+    <th></th><th colspan="2">Session 1</th>
+  </tr>
+  <tr class="head">
+    <th></th><th colspan="2">RCH/037</th>
+  </tr>
+  <tr>
+    <th>11:00</th><td colspan="2">Welcome</td>
+  </tr>
+  <tr>
+    <th>11:15</th><td colspan="2">Industrial Keynote from BAE Systems</td>
+  </tr>
+  <tr class="break">
+    <th>12:15</th><td colspan="2">Break</td>
+  </tr>
+  <tr class="head">
+    <th></th><th colspan="2">Session 2</th>
+  </tr>
+  <tr class="head">
+    <th></th><th>RCH/037</th><th>RCH/Lakehouse</th>
+  </tr>
+  <tr>
+    <th>12:30</th>
+    <td>Being a Graduate at BAE Systems</td>
+    <td>Docker: Cloudify Your Life</td>
+  </tr>
+  <tr>
+    <th>12:50</th>
+    <td>Testing Concurrent Programs</td>
+    <td>Stop using HTML & CSS! A quick intro to modern front-end workflow tools.</td>
+  </tr>
+  <tr class="break">
+    <th>13:30</th><td colspan="2">Lunch</td>
+  </tr>
+  <tr class="head">
+    <th></th><th colspan="2">Session 3</th>
+  </tr>
+  <tr class="head">
+    <th></th><th>RCH/037</th><th>RCH/Lakehouse</th>
+  </tr>
+  <tr>
+    <th>14:30</th>
+    <td>How To Be Your Own Mobile Operator</td>
+    <td>A Tour of Esoteric Programming Languages</td>
+  </tr>
+  <tr>
+    <th>14:50</th>
+    <td>Owning Your Own Data: An Introduction to the Indieweb</td>
+    <td>Hardware Hacking with JTAG</td>
+  </tr>
+  <tr class="break">
+    <th>15:30</th><td colspan="2">Break</td>
+  </tr>
+  <tr class="head">
+    <th></th><th colspan="2">Session 4</th>
+  </tr>
+  <tr class="head">
+    <th></th><th colspan="2">RCH/037</th>
+  </tr>
+  <tr>
+    <th>15:45</th><td colspan="2">Reverse Engineering with Dank Memes</td>
+  </tr>
+  <tr>
+    <th>16:05</th><td colspan="2">Bitcoin and the Blockchain: Distributing the Future Today</td>
+  </tr>
+  <tr>
+    <th>16:45</th><td colspan="2">Closing Remarks</td>
+  </tr>
+  <tr class="head">
+    <th></th><th colspan="2">Social Event</th>
+  </tr>
+  <tr class="head">
+    <th></th><th colspan="2">The Postern Gate</th>
+  </tr>
+  <tr class="break">
+    <th>17:30</th><td colspan="2">Food, Drinks, & Chat</td>
+  </tr>
+</table>
 
-If you are interested in attending, please register your interest so
-we have an idea of numbers:
+## Sunday
 
-- **[Registration form](http://bit.ly/gtmu15-signup)** 
-
-There is an annoucement list to which we will post updates:
-
-- **[Announcement list](https://goo.gl/bsuRTV)**
-
-Call for Submissions
---------------------
-
-We welcome and encourage contributions from all areas of
-computing-related tech, including but not limited to:
-
-- Computer Science
-- Mathematics (especially as relating to CS)
-- Computer Hardware and Electronics
-- Software Engineering and Programming
-- Cultural, Social, and Legal Ramifications of Technology
-- Employment, Internships, and Placements
-- Running a University Technical Society
-
-Submissions can be talks (5, 20, or 60 minute preferred), tutorials, 
-workshops, or round table discussions. If there are too many 
-submissions of a particular type to fit into the programme, we may 
-contact presenters about the possibility of a different one (such as a 
-lightning talk): 
-
-- **Submission form:** http://bit.ly/gtmu15-submission 
-
-If there is something you would like to see at the meetup, but which 
-you couldn't organise yourself, then you can suggest it and we may be 
-able to find someone knowledgeable on that topic: 
-
-- **Suggestion form:** http://bit.ly/gtmu15-suggestion 
-
-Important Dates 
---------------- 
-
-- Submission title and abstract deadline: 23rd of October 
-- Notification: 25th of October 
-- Final programme availability: 25th of October 
-- Meetup: 31st of October & 1st of November
+<table>
+  <tr class="head">
+    <th></th><th>CSE/082+082</th>
+  </tr>
+  <tr>
+    <th>09:15</th>
+    <td>Opening</td>
+  </tr>
+  <tr>
+    <th>09:30</th>
+    <td>Hack Day</td>
+  </tr>
+  <tr class="break">
+    <th>13:00</th>
+    <td>Pizza Arrives</td>
+  </tr>
+  <tr>
+    <th>15:30</th>
+    <td>Team Presentations</td>
+  </tr>
+  <tr>
+    <th>16:45</th>
+    <td>Closing Remarks</td>
+  </tr>
+</table>
 
 Organisation
 ------------
 
-Want to get involved? Get in touch! We hang out in `#compsoc-uk` on
-`irc.freenode.net`. We're keen to have as many universities take part
-in this as possible!
+We hang out in `#compsoc-uk` on `irc.freenode.net`, and will of course
+also be at GTMU.
 
 - **Michael Walker** (chair), barrucadu on IRC (University of York,
   [HackSoc](http://hacksoc.org/))

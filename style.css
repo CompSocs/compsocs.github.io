@@ -24,3 +24,11 @@ h2 {
     border-top: 1px solid gray;
     padding-top: 3px;
 }
+
+/* Table stuff (GTMU programme) */
+table { width: 100%; border-spacing: 0 }
+th { font-weight: bold; font-size: 0.9em; text-align: left }
+tr.head th { font-size: 1.1em; text-align: center }
+td, th { padding: 5px; vertical-align: middle }
+tr.break { background-color: #ddd }
+tr.break td { text-align: center; font-style: italic }
