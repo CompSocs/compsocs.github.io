@@ -30,7 +30,7 @@ title: Grand Tech Meetup 2015
     <th></th><th colspan="2">Session 2</th>
   </tr>
   <tr class="head">
-    <th></th><th>RCH/037</th><th>RCH/Lakehouse</th>
+    <th></th><th>RCH/037</th><th>RCH/017</th>
   </tr>
   <tr>
     <th>12:30</th>
