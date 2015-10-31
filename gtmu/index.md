@@ -58,8 +58,8 @@ title: Grand Tech Meetup 2015
   </tr>
   <tr>
     <th>14:50</th>
-    <td>Owning Your Own Data: An Introduction to the Indieweb</td>
     <td>Hardware Hacking with JTAG</td>
+    <td>Owning Your Own Data: An Introduction to the Indieweb</td>
   </tr>
   <tr class="break">
     <th>15:30</th><td colspan="2">Break</td>
