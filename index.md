@@ -30,10 +30,12 @@ Type `!whois.set <description>` to set the description for yourself.
 Grand Tech Meetup
 -----------------
 
-We're planning a weekend of talks, round table discussions, mini
-hacks, and social events in York in late October.
+Every year we organise a Grand Tech meetup, inviting all societies
+and those interested for a weekend of talks, workshops, and social events.
 
-**See [the GTMU 15 site](gtmu) for details.**
+The 2016 GTMU is currently being planned - join us on IRC to find out more!
+
+**See [the GTMU pages](gtmu) for details.**
 
 Known Societies
 ---------------
